@@ -18,4 +18,5 @@ Curso fundamentos de programación
 **negritas**
 _texto italica_
 ***negritas italica***
-![Descripcion Imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imprentaonline.net%2Fblog%2Fprompt-imagenes-ia%2F&psig=AOvVaw205I9F2KB_y2ktcjyhfFm8&ust=1728088494065000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiO-6G984gDFQAAAAAdAAAAABAE)
+![Descripcion Imagen](![image](https://github.com/user-attachments/assets/de2c0fab-024f-4fbc-abb4-a08e24133e00)
+)
